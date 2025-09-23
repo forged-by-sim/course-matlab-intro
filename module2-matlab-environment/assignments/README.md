@@ -1,5 +1,5 @@
 ![Alt text](Lesson 1.pdf)
 
-![image of MATLAB Calculation Assignment](Screenshot 218.png)
+![Assignment](MATLAB Calculator.png)
 
-![image of Lesson 1 Assignment](Screenshot 219.png) 
+![Assignment](Lesson 1 Wrap Up.png) 
